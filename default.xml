@@ -22,7 +22,7 @@
     <copyfile src="core/root.mk" dest="Makefile" />
   </project>
 
-  <project path="android" name="android-armv7a-belalang-tempur/android-lp" remote="github" revision="lp5.0" />
+  <project path="android" name="android-armv7a-belalang-tempur/android-lp" remote="github" revision="cm-12.0" />
 
   <project path="external/libpng" name="Team-Validus/external_libpng" remote="github" revision="lp5.0" />
   <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
