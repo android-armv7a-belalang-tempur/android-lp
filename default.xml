@@ -24,7 +24,7 @@
 
   <project path="android" name="android-armv7a-belalang-tempur/android-lp" remote="github" revision="lp5.0" />
 
-  <project path="external/libpng" name="external_libpng" remote="tv" revision="lp5.0" />
+  <project path="external/libpng" name="Team-Validus/external_libpng" remote="github" revision="lp5.0" />
   <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
   <project name="TeamBliss-Devices/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lp5.0" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github"  revision="cm-12.0" />
@@ -268,7 +268,7 @@
   <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" groups="pdk" />
   <project path="development" name="CyanogenMod/android_development" groups="pdk-cw-fs" />
   <project path="device/common" name="CyanogenMod/android_device_common" groups="pdk-cw-fs" />
-  <project path="device/qcom/sepolicy" name="android_device_qcom_sepolicy" remote="tv" revision="cm-12.0" />
+  <project path="device/qcom/sepolicy" name="Team-Validus/android_device_qcom_sepolicy" remote="github" revision="cm-12.0" />
   <project path="external/android-mock" name="CyanogenMod/android_external_android-mock" />
   <project path="external/android-visualizer" name="CyanogenMod/android_external_android-visualizer" />
   <project path="external/ant-glob" name="CyanogenMod/android_external_ant-glob" groups="pdk-cw-fs" />
@@ -441,7 +441,7 @@
   <project path="packages/apps/ThemeChooser" name="CyanogenMod/android_packages_apps_ThemeChooser" />
   <project path="packages/apps/UnifiedEmail" name="CyanogenMod/android_packages_apps_UnifiedEmail" />
   <project path="packages/experimental" name="CyanogenMod/android_packages_experimental" />
-  <!--project path="packages/inputmethods/LatinIME" name="packages_inputmethods_LatinIME" remote="tv" revision="lp5.0" /-->
+  <!--project path="packages/inputmethods/LatinIME" name="Team-Validus/packages_inputmethods_LatinIME" remote="github" revision="lp5.0" /-->
   <project path="packages/providers/ApplicationsProvider" name="CyanogenMod/android_packages_providers_ApplicationsProvider" />
   <project path="packages/providers/CalendarProvider" name="CyanogenMod/android_packages_providers_CalendarProvider" />
   <project path="packages/providers/ContactsProvider" name="CyanogenMod/android_packages_providers_ContactsProvider" />
