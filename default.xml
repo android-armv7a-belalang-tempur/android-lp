@@ -25,7 +25,7 @@
   <project path="android" name="android-armv7a-belalang-tempur/android-lp" remote="github" revision="lp5.0" />
 
   <project path="external/libpng" name="Team-Validus/external_libpng" remote="github" revision="lp5.0" />
-  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
+  <project path="vendor/samsung" name="TheMuppets/proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
   <project name="TeamBliss-Devices/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lp5.0" />
   <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github"  revision="cm-12.0" />
 
