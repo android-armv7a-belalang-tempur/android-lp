@@ -24,7 +24,10 @@
 
   <project path="android" name="android-armv7a-belalang-tempur/android-lp" remote="github" revision="lp5.0" />
 
- <project path="external/libpng" name="external_libpng" remote="tv" revision="lp5.0" />
+  <project path="external/libpng" name="external_libpng" remote="tv" revision="lp5.0" />
+  <project path="vendor/samsung" name="proprietary_vendor_samsung" remote="github" revision="cm-12.0" />
+  <project name="TeamBliss-Devices/android_hardware_samsung" path="hardware/samsung" remote="github" revision="lp5.0" />
+  <project name="CyanogenMod/android_packages_apps_SamsungServiceMode" path="packages/apps/SamsungServiceMode" remote="github"  revision="cm-12.0" />
 
   <project path="external/mpandroidchart" name="NamelessRom/android_external_mpandroidchart" remote="github" revision="n-2.0" />
   <project path="packages/apps/DeviceControl" name="ErcOneMOD/android_packages_apps_DeviceControl" remote="github" revision="lp5.0" />
